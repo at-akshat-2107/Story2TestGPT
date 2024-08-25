@@ -1,0 +1,16 @@
+pandas 
+transformers 
+torch 
+evaluate 
+bert-score 
+nltk 
+textstat 
+rouge_score 
+nltk 
+tabulate 
+groq 
+openpyxl 
+streamlit
+lime 
+shap
+fpdf
